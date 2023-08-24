@@ -1,5 +1,3 @@
-Impact of These Challenges on Customer Experience
-=============================================================================================
 
 In this chapter, we will discuss the challenges faced by the aviation industry and their impact on customer experience. We will explore how these challenges can be addressed with the use of AI-powered Chatbots.
 

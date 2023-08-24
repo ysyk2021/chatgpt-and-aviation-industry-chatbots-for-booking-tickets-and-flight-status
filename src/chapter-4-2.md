@@ -1,5 +1,3 @@
-How AI and Chatbots can Improve Customer Experience in Aviation Industry
-=====================================================================================================================================
 
 In this chapter, we will explore the role of AI and Chatbots in improving customer experience in the aviation industry. We will discuss the potential benefits of using AI and Chatbots for booking tickets and providing flight status updates.
 

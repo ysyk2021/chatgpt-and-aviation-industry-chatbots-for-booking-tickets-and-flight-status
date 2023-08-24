@@ -1,5 +1,3 @@
-Overview of the Book
-==================================
 
 This book explores the use of AI-powered Chatbots, specifically ChatGPT, in the aviation industry to improve customer experience and operational efficiency. The aviation industry is a critical part of global transportation, connecting people and goods across the world, and understanding the importance of customer experience and personalization is essential for success in the industry.
 

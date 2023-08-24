@@ -1,5 +1,3 @@
-Emerging trends and challenges in aviation industry and ChatGPT
-====================================================================================================================
 
 In this chapter, we will discuss the emerging trends and challenges in the aviation industry and ChatGPT. As Chatbots powered by ChatGPT become increasingly popular in the aviation industry, it is important to stay up-to-date on the latest trends and challenges.
 

@@ -1,5 +1,3 @@
-Chapter 1: Basics of Aviation Industry
-======================================
 
 In this chapter, we will introduce the basics of the aviation industry. We will define what the aviation industry is, discuss the different types of aviation services, and explain the importance of customer experience and personalization in the industry.
 

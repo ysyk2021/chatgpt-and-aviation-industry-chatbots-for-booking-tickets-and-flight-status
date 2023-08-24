@@ -1,5 +1,3 @@
-Features and Capabilities of ChatGPT
-======================================================================
 
 ChatGPT (Generative Pre-trained Transformer) is an AI language model that has the capability to generate human-like responses based on text-based prompts. In this chapter, we will explore the features and capabilities of ChatGPT, and how it can be used in the aviation industry.
 

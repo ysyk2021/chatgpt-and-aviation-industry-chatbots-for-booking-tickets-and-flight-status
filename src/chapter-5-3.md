@@ -1,5 +1,3 @@
-How ChatGPT can be used for booking tickets and providing flight status updates
-=================================================================================================================
 
 In this chapter, we will explore how ChatGPT can be used in the aviation industry to streamline the booking process and provide real-time flight status updates to passengers. We will discuss the capabilities of ChatGPT and how it can be trained to understand natural language inputs from customers.
 

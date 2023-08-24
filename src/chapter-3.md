@@ -1,5 +1,3 @@
-Chapter 2: Challenges in Aviation Industry
-==========================================
 
 In this chapter, we will discuss the challenges faced by the aviation industry. We will explore the factors that affect the industry, common challenges faced by airlines and passengers, and the impact of these challenges on customer experience.
 

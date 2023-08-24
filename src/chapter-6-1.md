@@ -1,5 +1,3 @@
-Steps to implement ChatGPT in aviation industry
-=====================================================================================================
 
 In this chapter, we will discuss the steps to implement ChatGPT in the aviation industry. Chatbots powered by ChatGPT can streamline the booking process and provide real-time flight status updates to passengers. By integrating Chatbots with airline systems and databases, airlines can enhance customer experience and improve operational efficiency.
 

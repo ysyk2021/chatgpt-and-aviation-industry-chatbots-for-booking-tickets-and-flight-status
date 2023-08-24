@@ -1,5 +1,3 @@
-Chapter 3: The Role of AI and Chatbots in Aviation Industry
-===========================================================
 
 In this chapter, we will discuss the role of AI and Chatbots in the aviation industry. We will introduce the concepts of AI and Chatbots, explore how they can improve customer experience in the aviation industry, and discuss the benefits of using AI and Chatbots for the aviation industry.
 

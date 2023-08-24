@@ -1,5 +1,3 @@
-Potential advancements in aviation industry with ChatGPT
-=============================================================================================================
 
 In this chapter, we will discuss the potential future advancements in the aviation industry with ChatGPT. Chatbots powered by ChatGPT have the potential to revolutionize the aviation industry by providing personalized and efficient customer service. Here are some potential advancements:
 

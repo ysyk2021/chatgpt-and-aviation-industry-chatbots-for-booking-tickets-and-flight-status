@@ -1,5 +1,3 @@
-Chapter 6: Future of Aviation Industry with ChatGPT
-===================================================
 
 ChatGPT (Generative Pre-trained Transformer) has the potential to revolutionize the aviation industry by providing real-time support for customers, automating processes, and enhancing safety and efficiency. In this chapter, we will explore the potential advancements in the aviation industry with ChatGPT, emerging trends and challenges, and provide a future outlook.
 

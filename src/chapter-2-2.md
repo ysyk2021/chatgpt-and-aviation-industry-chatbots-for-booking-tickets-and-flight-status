@@ -1,5 +1,3 @@
-Different Types of Aviation Services
-============================================================================
 
 The aviation industry is a diverse sector that comprises various types of aviation services. In this chapter, we will explore the different types of aviation services and their unique characteristics.
 

@@ -1,5 +1,3 @@
-Definition of Aviation Industry
-=======================================================================
 
 The aviation industry is a complex and dynamic sector that encompasses all aspects of air travel, including airlines, airports, and related businesses. It plays a critical role in global transportation, connecting people and goods across the world.
 

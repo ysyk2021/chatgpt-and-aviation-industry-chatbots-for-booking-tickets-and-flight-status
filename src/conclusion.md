@@ -1,4 +1,3 @@
-# Conclusion
 
 In this book, we have explored the potential of ChatGPT to improve the booking of tickets and provide flight status updates in the aviation industry. We have discussed the features and capabilities of Chatbots powered by ChatGPT, its potential applications in the aviation industry, best practices for using Chatbots, and case studies of airlines that have successfully implemented Chatbots.
 
