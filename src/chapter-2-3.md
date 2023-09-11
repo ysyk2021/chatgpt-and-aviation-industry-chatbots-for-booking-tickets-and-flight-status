@@ -1,5 +1,4 @@
-Chapter: Importance of Customer Experience and Personalization in the Aviation Industry
-=======================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the aviation industry, providing an exceptional customer experience and personalization has become increasingly important. This chapter explores the significance of customer experience and personalization in the aviation industry and highlights the benefits it brings to both passengers and airlines.
 

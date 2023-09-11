@@ -1,5 +1,4 @@
-Chapter: Benefits of Using AI and Chatbots in the Aviation Industry
-===================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial intelligence (AI) and chatbots have revolutionized the aviation industry, providing numerous benefits to airlines and passengers alike. This chapter explores the significant advantages of employing AI and chatbots in the aviation industry.
 

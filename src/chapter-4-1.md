@@ -1,5 +1,4 @@
-Chapter: Introduction to AI and Chatbots
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In recent years, the aviation industry has witnessed a significant transformation with the integration of Artificial Intelligence (AI) and chatbot technologies. These innovations have revolutionized customer interactions, streamlining processes, enhancing efficiency, and improving overall customer experience. In this chapter, we will provide an introduction to AI and chatbots and explore their applications in the aviation industry.
 

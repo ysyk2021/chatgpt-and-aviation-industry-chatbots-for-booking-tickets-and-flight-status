@@ -1,5 +1,4 @@
-Chapter: How AI and Chatbots Can Improve Customer Experience in the Aviation Industry
-=====================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial intelligence (AI) and chatbots have revolutionized the aviation industry, significantly enhancing the customer experience. This chapter explores the various ways in which AI and chatbots can improve customer satisfaction and engagement in the aviation industry.
 

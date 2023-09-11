@@ -1,5 +1,4 @@
-Chapter: What is ChatGPT?
-=========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT is an advanced language model developed by OpenAI. It is powered by the GPT-3.5 architecture, which stands for "Generative Pre-trained Transformer 3.5". This model has made significant strides in natural language processing and understanding, enabling it to engage in human-like conversations.
 

@@ -1,5 +1,4 @@
-Chapter: Features and Capabilities of ChatGPT
-=============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT, an advanced AI language model, has brought significant advancements to the aviation industry in the domain of booking tickets and providing flight status updates. This chapter explores the features and capabilities that make ChatGPT a powerful tool for improving customer service and streamlining processes in the aviation industry.
 

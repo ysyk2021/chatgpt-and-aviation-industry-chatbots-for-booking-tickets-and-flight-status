@@ -1,5 +1,4 @@
-Chapter: Impact of These Challenges on Customer Experience
-==========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The challenges faced by chatbots in the aviation industry, particularly those powered by ChatGPT, have a direct impact on the overall customer experience. In this chapter, we will explore the consequences of these challenges and how they influence the satisfaction and perception of customers.
 

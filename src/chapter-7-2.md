@@ -1,5 +1,4 @@
-Chapter: Emerging Trends and Challenges in the Aviation Industry and ChatGPT
-============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The aviation industry is constantly evolving, driven by technological advancements and changing passenger expectations. As chatbots like ChatGPT continue to shape the industry's customer service landscape, it is important to explore the emerging trends and challenges that both the aviation industry and ChatGPT face. This chapter delves into the key trends and challenges that are impacting the industry and shaping the future of AI-powered chatbots.
 

@@ -1,5 +1,4 @@
-Chapter: Potential Advancements in the Aviation Industry with ChatGPT
-=====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The integration of ChatGPT, an advanced AI language model, into the aviation industry has already revolutionized ticket bookings and flight status updates. However, the potential advancements that ChatGPT can bring to the industry are vast and exciting. This chapter explores some of the potential future developments and enhancements that can be expected.
 

@@ -1,5 +1,4 @@
-Chapter: Definition of the Aviation Industry
-============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The aviation industry encompasses a broad range of activities related to air transportation, including the operation of airlines, airports, and other supporting services. This chapter provides an overview and definition of the aviation industry, highlighting its key components and functions.
 

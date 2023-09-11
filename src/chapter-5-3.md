@@ -1,5 +1,4 @@
-Chapter: How ChatGPT Can be Used for Booking Tickets and Providing Flight Status Updates
-========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT, powered by AI technology, has revolutionized the way aviation industry chatbots handle ticket bookings and provide flight status updates. This chapter explores the capabilities of ChatGPT and how it enhances the user experience in these areas.
 

@@ -1,5 +1,4 @@
-Chapter: Case Studies of Airlines that have Successfully Implemented ChatGPT in their Services
-==============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In recent years, several airlines have successfully implemented ChatGPT-powered chatbots to enhance customer services and improve overall satisfaction. These case studies highlight the effectiveness of using AI-driven chatbots in the aviation industry. Let's explore some notable examples:
 

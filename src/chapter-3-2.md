@@ -1,5 +1,4 @@
-Chapter: Common Challenges Faced by Airlines and Passengers
-===========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the fast-paced aviation industry, both airlines and passengers encounter various challenges throughout the ticket booking and flight status processes. Understanding these challenges is crucial for improving operations, enhancing customer satisfaction, and providing a seamless travel experience. In this chapter, we will explore the common challenges faced by airlines and passengers in the context of ChatGPT-powered chatbots.
 

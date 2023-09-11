@@ -1,5 +1,4 @@
-Chapter: Steps to Implement ChatGPT in the Aviation Industry
-============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Implementing ChatGPT-powered chatbots in the aviation industry requires careful planning, technical expertise, and effective integration strategies. This chapter outlines the essential steps involved in successfully implementing ChatGPT in the aviation industry.
 

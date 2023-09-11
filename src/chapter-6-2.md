@@ -1,5 +1,4 @@
-Chapter: Best Practices for Using ChatGPT in Improving Customer Experience
-==========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the aviation industry, chatbots powered by ChatGPT have become increasingly prevalent in enhancing customer experience. With their ability to provide quick and accurate information, streamline booking processes, and offer real-time flight updates, chatbots have revolutionized the way customers interact with airlines. In this chapter, we will explore best practices for using ChatGPT to maximize customer satisfaction and improve overall customer experience.
 
